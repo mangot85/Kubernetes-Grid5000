@@ -1,0 +1,152 @@
+[
+    {
+        "Replicas": 1,
+        "RequestInterval": 10,
+        "CalculationTime": 23.78643216080402,
+        "TotalDelay": 909.8542713567839
+    },
+    {
+        "Replicas": 1,
+        "RequestInterval": 20,
+        "CalculationTime": 24.61772151898734,
+        "TotalDelay": 874.2835443037975
+    },
+    {
+        "Replicas": 1,
+        "RequestInterval": 30,
+        "CalculationTime": 11.16566265060241,
+        "TotalDelay": 36.355421686746986
+    },
+    {
+        "Replicas": 1,
+        "RequestInterval": 40,
+        "CalculationTime": 5.337349397590361,
+        "TotalDelay": 6.863453815261044
+    },
+    {
+        "Replicas": 1,
+        "RequestInterval": 50,
+        "CalculationTime": 5.703517587939698,
+        "TotalDelay": 7.261306532663316
+    },
+    {
+        "Replicas": 2,
+        "RequestInterval": 10,
+        "CalculationTime": 25.672190476190476,
+        "TotalDelay": 871.2076296296297
+    },
+    {
+        "Replicas": 2,
+        "RequestInterval": 20,
+        "CalculationTime": 10.012993503248376,
+        "TotalDelay": 17.973804764284523
+    },
+    {
+        "Replicas": 2,
+        "RequestInterval": 30,
+        "CalculationTime": 6.347905079718205,
+        "TotalDelay": 9.536892843900631
+    },
+    {
+        "Replicas": 2,
+        "RequestInterval": 40,
+        "CalculationTime": 11.025409836065574,
+        "TotalDelay": 12.761065573770493
+    },
+    {
+        "Replicas": 2,
+        "RequestInterval": 50,
+        "CalculationTime": 5.4623115577889445,
+        "TotalDelay": 6.994974874371859
+    },
+    {
+        "Replicas": 3,
+        "RequestInterval": 10,
+        "CalculationTime": 20.08246640019215,
+        "TotalDelay": 79.81073337661967
+    },
+    {
+        "Replicas": 3,
+        "RequestInterval": 20,
+        "CalculationTime": 8.343445940460866,
+        "TotalDelay": 13.706071913161466
+    },
+    {
+        "Replicas": 3,
+        "RequestInterval": 30,
+        "CalculationTime": 6.238563049853372,
+        "TotalDelay": 8.544134897360703
+    },
+    {
+        "Replicas": 3,
+        "RequestInterval": 40,
+        "CalculationTime": 6.024096385542169,
+        "TotalDelay": 8.558232931726907
+    },
+    {
+        "Replicas": 3,
+        "RequestInterval": 50,
+        "CalculationTime": 5.221105527638191,
+        "TotalDelay": 6.834170854271357
+    },
+    {
+        "Replicas": 4,
+        "RequestInterval": 10,
+        "CalculationTime": 14.153157642372761,
+        "TotalDelay": 32.72925094127339
+    },
+    {
+        "Replicas": 4,
+        "RequestInterval": 20,
+        "CalculationTime": 9.728867623604465,
+        "TotalDelay": 14.056390977443609
+    },
+    {
+        "Replicas": 4,
+        "RequestInterval": 30,
+        "CalculationTime": 7.06146047837795,
+        "TotalDelay": 9.270394424204024
+    },
+    {
+        "Replicas": 4,
+        "RequestInterval": 40,
+        "CalculationTime": 7.203792134831461,
+        "TotalDelay": 8.692310393258428
+    },
+    {
+        "Replicas": 4,
+        "RequestInterval": 50,
+        "CalculationTime": 5.673366834170854,
+        "TotalDelay": 7.633165829145729
+    },
+    {
+        "Replicas": 5,
+        "RequestInterval": 10,
+        "CalculationTime": 12.638261554050073,
+        "TotalDelay": 20.09215819229552
+    },
+    {
+        "Replicas": 5,
+        "RequestInterval": 20,
+        "CalculationTime": 8.482788165283857,
+        "TotalDelay": 14.758683917530806
+    },
+    {
+        "Replicas": 5,
+        "RequestInterval": 30,
+        "CalculationTime": 7.205520833333333,
+        "TotalDelay": 10.429895833333333
+    },
+    {
+        "Replicas": 5,
+        "RequestInterval": 40,
+        "CalculationTime": 5.105263157894736,
+        "TotalDelay": 7.838056680161943
+    },
+    {
+        "Replicas": 5,
+        "RequestInterval": 50,
+        "CalculationTime": 5.507537688442211,
+        "TotalDelay": 7.326633165829146
+    }
+]

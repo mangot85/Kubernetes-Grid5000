@@ -1,0 +1,15 @@
+# XXXXXX/YYYYYY is your username/password in https://hub.docker.com/
+# kubectl create -f k8-dep-sds-ser.yaml
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: mangot-ser1
+spec:
+  type: NodePort
+  selector:
+    app: mangot-dep1
+  ports:
+    - port: 3000
+      targetPort: nodejs-port
+      protocol: TCP

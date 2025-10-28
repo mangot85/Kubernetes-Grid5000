@@ -1,0 +1,18 @@
+# XXXXXX/YYYYYY is your username/password in https://hub.docker.com/
+# kubectl create -f k8-tp-04-busy-box-service.yaml
+# minikube service list
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: tp-04-busy-box-service
+  namespace: default
+spec:
+  type: NodePort
+  selector:
+    app: tp-04-busy-box-deployment
+  ports:
+    - name: http
+      port: 3000
+      targetPort: nodejs-port
+      nodePort: 30100

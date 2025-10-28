@@ -1,0 +1,152 @@
+[
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 909.8542713567839,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 874.2835443037975,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 36.355421686746986,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 6.863453815261044,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 7.261306532663316,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 871.2076296296297,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 17.973804764284523,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 9.536892843900631,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 12.761065573770493,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 6.994974874371859,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 79.81073337661967,
+        "Replicas": 3,
+        "LookupTable": 3
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 13.706071913161466,
+        "Replicas": 3,
+        "LookupTable": 3
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 8.544134897360703,
+        "Replicas": 3,
+        "LookupTable": 3
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 8.558232931726907,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 6.834170854271357,
+        "Replicas": 3,
+        "LookupTable": 3
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 32.72925094127339,
+        "Replicas": 4,
+        "LookupTable": 4
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 14.056390977443609,
+        "Replicas": 4,
+        "LookupTable": 3
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 9.270394424204024,
+        "Replicas": 4,
+        "LookupTable": 3
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 8.692310393258428,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 7.633165829145729,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 20.09215819229552,
+        "Replicas": 5,
+        "LookupTable": 5
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 14.758683917530806,
+        "Replicas": 5,
+        "LookupTable": 3
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 10.429895833333333,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 7.838056680161943,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 7.326633165829146,
+        "Replicas": 5,
+        "LookupTable": 1
+    }
+]

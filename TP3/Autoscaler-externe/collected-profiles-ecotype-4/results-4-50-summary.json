@@ -1,0 +1,8 @@
+[
+    {
+        "NodeIP": "10.244.0.18:3000",
+        "NumberOfPoints": 199,
+        "CalculationTime": 4.849246231155779,
+        "TotalDelay": 6.8542713567839195
+    }
+]

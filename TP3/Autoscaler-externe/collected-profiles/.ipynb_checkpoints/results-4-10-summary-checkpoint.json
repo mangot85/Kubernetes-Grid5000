@@ -1,0 +1,26 @@
+[
+    {
+        "NodeIP": "10.244.0.15:3000",
+        "NumberOfPoints": 13,
+        "CalculationTime": 8.76923076923077,
+        "TotalDelay": 10.153846153846153
+    },
+    {
+        "NodeIP": "10.244.0.16:3000",
+        "NumberOfPoints": 327,
+        "CalculationTime": 16.486238532110093,
+        "TotalDelay": 41.09480122324159
+    },
+    {
+        "NodeIP": "10.244.0.17:3000",
+        "NumberOfPoints": 339,
+        "CalculationTime": 20.221238938053098,
+        "TotalDelay": 61.749262536873154
+    },
+    {
+        "NodeIP": "10.244.0.9:3000",
+        "NumberOfPoints": 309,
+        "CalculationTime": 11.135922330097088,
+        "TotalDelay": 17.919093851132686
+    }
+]

@@ -1,0 +1,2788 @@
+[
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4979291277960706,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044646871,
+        "TotalDelay": 20
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49789148187997745,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044646920,
+        "TotalDelay": 8
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49500969937810907,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044646970,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5044884185035253,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044647021,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.496164749593886,
+            "CalculationTime": 6,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044647071,
+        "TotalDelay": 8
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5051944316612866,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044647121,
+        "TotalDelay": 8
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4988572297375427,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044647171,
+        "TotalDelay": 31
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4936034864866774,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044647221,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4994209104141847,
+            "CalculationTime": 8,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044647271,
+        "TotalDelay": 11
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49834219747923636,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044647321,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49597151474977297,
+            "CalculationTime": 6,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044647372,
+        "TotalDelay": 8
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5042708180895524,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044647422,
+        "TotalDelay": 8
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4994162468528224,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044647473,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4975732046868188,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044647523,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4972332988833963,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044647573,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49452042818862973,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044647622,
+        "TotalDelay": 8
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49809249681194406,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044647673,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5021896012233539,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044647723,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4961651024943152,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044647773,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4987217557342913,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044647823,
+        "TotalDelay": 8
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4926034876768295,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044647874,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5057337517704398,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044647923,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5073383795020103,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044647973,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.498711384700664,
+            "CalculationTime": 6,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044648024,
+        "TotalDelay": 8
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4988343290848788,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044648075,
+        "TotalDelay": 26
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49515204222421194,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044648125,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5009626509937559,
+            "CalculationTime": 7,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044648174,
+        "TotalDelay": 10
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5010521376759763,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044648224,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4996627145154991,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044648274,
+        "TotalDelay": 8
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4967150630953588,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044648325,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5002830557051494,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044648375,
+        "TotalDelay": 10
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49597791051153634,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044648425,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49974124487704524,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044648475,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5021607155847563,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044648525,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49815182478730424,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044648575,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4958366635495911,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044648625,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5009153264714592,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044648674,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5020808282685206,
+            "CalculationTime": 6,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044648725,
+        "TotalDelay": 9
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5085886257711483,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044648776,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5064813771091671,
+            "CalculationTime": 6,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044648826,
+        "TotalDelay": 8
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.501378524627788,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044648875,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5026087183409199,
+            "CalculationTime": 6,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044648926,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5000713623686941,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044648976,
+        "TotalDelay": 25
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5058485431243825,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044649026,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5074398747092597,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044649075,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5049278301508491,
+            "CalculationTime": 9,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044649126,
+        "TotalDelay": 11
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5027568273541881,
+            "CalculationTime": 18,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044649176,
+        "TotalDelay": 20
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5032565894841069,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044649226,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.502341426660328,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044649276,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5011726171448441,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044649327,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5018372842080934,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044649376,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49838326148025747,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044649427,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5021298879197669,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044649477,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49917655500747854,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044649526,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5035533780300468,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044649576,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5046577578496105,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044649627,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5064786860621044,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044649677,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49780900073482043,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044649726,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.492966805332074,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044649777,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5037216805608851,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044649827,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4952156013212383,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044649877,
+        "TotalDelay": 25
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49286997374830466,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044649927,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.509748047143265,
+            "CalculationTime": 17,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044649976,
+        "TotalDelay": 19
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49624583923396315,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044650027,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5028877137679857,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044650077,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4975206223368602,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044650127,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4915673817678319,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044650176,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5015123200248587,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044650226,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5038457330731728,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044650277,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49799236264399727,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044650327,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49791276350448394,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044650377,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5029507297034149,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044650426,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4966429903648267,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044650477,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5029349909325688,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044650527,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49996685103708327,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044650578,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5078713431670702,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044650627,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5013671613072814,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044650678,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4991522179358606,
+            "CalculationTime": 7,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044650727,
+        "TotalDelay": 8
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5057935117566146,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044650777,
+        "TotalDelay": 24
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5053704549078691,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044650828,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5075328056836614,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044650878,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.504927838623183,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044650928,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5024699165813145,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044650978,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5010242232555946,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044651028,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5010757835413426,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044651078,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4999640114939698,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044651128,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4982761527278394,
+            "CalculationTime": 6,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044651178,
+        "TotalDelay": 8
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49890900552000605,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044651228,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49286042295742427,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044651279,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49907475373496885,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044651329,
+        "TotalDelay": 8
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5028800387786341,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044651379,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4985028254150056,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044651429,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5056298072475377,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044651480,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5035163663718929,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044651530,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5018584571623319,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044651581,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49588140215528936,
+            "CalculationTime": 6,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044651631,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4962829611574828,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044651680,
+        "TotalDelay": 21
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5057054288489866,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044651731,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49373877120812504,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044651782,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4956766411815812,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044651832,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.496886490711235,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044651881,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5013651217484889,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044651932,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49486579369237815,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044651983,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5015397015933826,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044652033,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5006113074928986,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044652083,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4947274828300976,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044652133,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4963077385783373,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044652183,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5078056902451699,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044652234,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5007504885367701,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044652284,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4967592865292221,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044652334,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4987868668680297,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044652384,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5003777030138749,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044652435,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5024941997499291,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044652485,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.506985456969337,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044652535,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.50050000205905,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044652585,
+        "TotalDelay": 15
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5069517188125602,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044652635,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49604311324818984,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044652684,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49773565796024044,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044652735,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5090873063392423,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044652784,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.501562121653279,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044652835,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5016779258134303,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044652885,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5008005514071616,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044652936,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4981944365778657,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044652986,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5013507586047717,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044653037,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4959316252358082,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044653088,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5017541852153544,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044653138,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4989615889380674,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044653187,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5069682357841434,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044653238,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49440486776723386,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044653287,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5063969618721365,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044653338,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49572924887017644,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044653388,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4970502682590836,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044653439,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5051122450977763,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044653489,
+        "TotalDelay": 11
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5036879783491596,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044653540,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49956066097540486,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044653590,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49772256143905447,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044653641,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4978853132274877,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044653691,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.495570052247084,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044653741,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49185751333754496,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044653791,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49171701245693944,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044653841,
+        "TotalDelay": 9
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5046131283515108,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044653892,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4985244066137974,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044653942,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5025156786522431,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044653992,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5042175507395664,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044654043,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5021834379764181,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044654093,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4972329581489414,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044654143,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49371059429872755,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044654194,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5004058480815164,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044654244,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5034180336893149,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044654294,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5060601097442528,
+            "CalculationTime": 7,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044654344,
+        "TotalDelay": 8
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5081957308726045,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044654395,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49647034036373916,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044654446,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5004684466998608,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044654496,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5083119731458442,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044654547,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4955310647327778,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044654597,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5082128032048396,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044654648,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.496560569062558,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044654698,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49877140501173856,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044654748,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5006684205896352,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044654798,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4972239253187859,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044654848,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5068331429212998,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044654898,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5031532089521189,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044654949,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4986999123980225,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044654999,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49869102274626315,
+            "CalculationTime": 45,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044655049,
+        "TotalDelay": 48
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49593735621239843,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044655099,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49620233817217085,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044655150,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5011934845575848,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044655200,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.505357266212118,
+            "CalculationTime": 6,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044655250,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5057800738706372,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044655300,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49467413135489074,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044655350,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5017387824073412,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044655400,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49996850323188946,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044655449,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5046623766468867,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044655500,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4899846926835189,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044655550,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4944188823978859,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044655600,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5004052950760578,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044655651,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5020775580727865,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044655701,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49347222817145425,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044655751,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49241723102638296,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044655800,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49169851030735856,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044655851,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5014352063874136,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044655901,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4987080170887853,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044655951,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5060391633003867,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044656001,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49276579764124995,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044656051,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4935805414119459,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044656101,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4971612258008734,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044656151,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5020382879009253,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044656202,
+        "TotalDelay": 8
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49676309852731126,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044656251,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5041242897831141,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044656302,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5038333607948664,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044656351,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5062894864984191,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044656402,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5051035970658428,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044656452,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5031063214337642,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044656502,
+        "TotalDelay": 9
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49951415216172473,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044656552,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5000701381107174,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044656602,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.49676952028404986,
+            "CalculationTime": 4,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044656652,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5000099857393172,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044656702,
+        "TotalDelay": 6
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.5007195200458608,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044656751,
+        "TotalDelay": 7
+    },
+    {
+        "Request": {
+            "MessageType": "Command",
+            "NodeCommand": "GenerateNumbers",
+            "NumberOfPoints": 4000
+        },
+        "Response": {
+            "Average": 0.4970792292433119,
+            "CalculationTime": 5,
+            "NodeIP": "10.244.0.22:3000"
+        },
+        "TimeStamp": 1761044656802,
+        "TotalDelay": 7
+    }
+]

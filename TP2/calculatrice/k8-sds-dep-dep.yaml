@@ -1,0 +1,27 @@
+# XXXXXX/YYYYYY is your username/password in https://hub.docker.com/
+# kubectl create -f k8-sds-dep-dep.yaml
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: mangot-dep1
+spec:
+  selector:
+    matchLabels:
+      app: mangot-dep1
+  template:
+    metadata:
+      labels:
+        app: mangot-dep1
+    spec:
+      containers:
+        - name: mangot-dep1
+          image: mangot85/simple-calculator-service:v1
+          resources:
+            limits:
+              memory: "128Mi"
+              cpu: "500m"
+          ports:
+            - name: nodejs-port
+              containerPort: 3000
+              protocol: TCP

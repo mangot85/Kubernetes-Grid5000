@@ -1,0 +1,14 @@
+[
+    {
+        "NodeIP": "10.244.0.15:3000",
+        "NumberOfPoints": 89,
+        "CalculationTime": 6.932584269662922,
+        "TotalDelay": 8.303370786516854
+    },
+    {
+        "NodeIP": "10.244.0.9:3000",
+        "NumberOfPoints": 160,
+        "CalculationTime": 7.475,
+        "TotalDelay": 9.08125
+    }
+]
